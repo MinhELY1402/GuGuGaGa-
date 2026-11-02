@@ -411,9 +411,32 @@ GuGuGaGa/
 │   │   └── README.md           # Giải thích chi tiết model
 │   └── dataset/                # ⚠️ Tải từ Kaggle (không có trong repo)
 │
+├── docs/                       # 📚 Toàn bộ tài liệu dự án & đặc tả
+│   ├── WBS_Project_Management.md # Kế hoạch WBS 27 gói, MoSCoW, PERT/CPM, Rủi ro
+│   ├── SPEC.md                 # Đặc tả kỹ thuật & kiến trúc hệ thống
+│   ├── GIT_WORKFLOW.md         # Quy chuẩn Git flow, nhánh, PR & Merge
+│   ├── chuc_nang_giao_dien.md  # Chi tiết luồng giao diện 3 tính năng chính
+│   └── vi_tri_thong_so_ai.md   # Bảng thông số và vị trí code AI
+│
+├── scripts/                    # 🛠 Scripts bảo trì, di trú & tự động hóa
+├── tasks/                      # 📋 Kế hoạch Sprint (plan.md) & Checklist (todo.md)
+├── .github/                    # CI/CD workflows & PR template
 ├── .gitignore
 └── README.md                   # ← Bạn đang ở đây
 ```
+
+---
+
+## 📚 Tài Liệu Dự Án & Quản Trị (Docs)
+
+| Tài liệu | Mô tả | Liên kết |
+| :--- | :--- | :---: |
+| **Kế hoạch WBS & Quản trị Dự án** | Cây WBS 27 gói công việc, tỷ lệ MoSCoW (~60% MVP), sơ đồ PERT/CPM, đường găng và ma trận rủi ro. | [WBS_Project_Management.md](docs/WBS_Project_Management.md) |
+| **Đặc tả Kỹ thuật (SPEC)** | Mục tiêu, bản đồ năng lực (Capability Map), chuẩn code và tiêu chí nghiệm thu. | [SPEC.md](docs/SPEC.md) |
+| **Quy chuẩn Git & Pull Request** | Chiến lược đặt tên nhánh `feat/wbs-...`, quy tắc Conventional Commits, mẫu PR và chu trình merge. | [GIT_WORKFLOW.md](docs/GIT_WORKFLOW.md) |
+| **Đặc tả Chức năng Giao diện** | Chi tiết mã nguồn và giao diện 3 luồng tính năng xương sống của hệ sinh thái. | [chuc_nang_giao_dien.md](docs/chuc_nang_giao_dien.md) |
+| **Thông số Mô hình AI** | Vị trí các tệp, tham số MobileNetV2, nhãn 30 món ăn và prompt Gemini. | [vi_tri_thong_so_ai.md](docs/vi_tri_thong_so_ai.md) |
+
 
 ---
 
