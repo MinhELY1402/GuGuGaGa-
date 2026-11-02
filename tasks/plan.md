@@ -2,7 +2,7 @@
 
 > 🎓 **Môn học**: Quản trị dự án phần mềm  
 > 🏷 **Dự án**: Hệ sinh thái đặt món ăn trực tuyến tích hợp AI – **GuGuGaGa**  
-> 🌿 **Mô hình vận hành**: **Git Branching Strategy + Conventional Commits + Pull Request + Code Review + CI Verification**  
+> 🌿 **Mô hình vận hành**: **1 Trưởng nhóm (Repo Owner/Reviewer) + 3 Thành viên kỹ thuật** ([Xem Cẩm Nang Phối Hợp](docs/TEAM_COLLABORATION_GUIDE.md))  
 > 🎯 **Quy tắc WBS**: Áp dụng 100% mã phân rã công việc từ [docs/WBS_Project_Management.md](file:///d:/GuGuGaGa/docs/WBS_Project_Management.md) vào từng nhánh tính năng và từng Pull Request.
 
 ---
