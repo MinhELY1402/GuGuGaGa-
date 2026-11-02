@@ -290,17 +290,18 @@
 
 ## 📊 BẢNG TỔNG KẾT TRẠNG THÁI TIẾN ĐỘ NHÁNH & PULL REQUEST
 
-| STT | Mã WBS | Tên Nhánh Git | Trạng Thái Nhánh | Pull Request | Trạng Thái Merge | Người Phụ Trách |
-| :---: | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | `1.1.1` | `chore/wbs-1.1.1-repo-infra` | 🟡 Ready to Branch | PR #1 | ⏳ Pending | TV1 (Backend/PM) |
-| 2 | `1.2.1` | `feat/wbs-1.2.1-auth-jwt` | ⚪ Scheduled | PR #2 | ⏳ Pending | TV1 (Backend/PM) |
-| 3 | `1.2.2` | `feat/wbs-1.2.2-menu-branches`| ⚪ Scheduled | PR #3 | ⏳ Pending | TV1 (Backend/PM) |
-| 4 | `1.6.3` | `feat/wbs-1.6.3-ai-flask-api` | ⚪ Scheduled | PR #4 | ⏳ Pending | TV3 (Frontend/AI) |
-| 5 | `1.2.4` | `feat/wbs-1.2.4-vietqr-casso` | ⚪ Scheduled | PR #5 | ⏳ Pending | TV1 (Backend/PM) |
-| 6 | `1.3.2` | `feat/wbs-1.3.2-customer-home`| ⚪ Scheduled | PR #6 | ⏳ Pending | TV2 (Mobile Lead) |
-| 7 | `1.3.6` | `feat/wbs-1.3.6-camera-ai-scan`| ⚪ Scheduled | PR #7 | ⏳ Pending | TV2 (Mobile Lead) |
-| 8 | `1.5.2` | `feat/wbs-1.5.2-admin-products`| ⚪ Scheduled | PR #8 | ⏳ Pending | TV3 (Frontend/AI) |
-| 9 | `1.4.2` | `feat/wbs-1.4.2-shipper-orders`| ⚪ Scheduled | PR #9 | ⏳ Pending | TV2 (Mobile Lead) |
-| 10 | `1.5.1` | `feat/wbs-1.5.1-admin-dashboard`| ⚪ Scheduled | PR #10 | ⏳ Pending | TV3 (Frontend/AI) |
-| 11 | `1.7.1` | `test/wbs-1.7.1-e2e-smoke-test`| ⚪ Scheduled | PR #11 | ⏳ Pending | TV3 (QA Lead) |
-| 12 | `1.7.2` | `docs/wbs-1.7.2-release-v1` | ⚪ Scheduled | PR #12 | ⏳ Pending | TV1 (PM Lead) |
+| STT | Mã WBS | GitHub Issue | Tên Nhánh Git | Trạng Thái Nhánh | Pull Request | Trạng Thái Merge | Người Phụ Trách |
+| :---: | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | `1.1.1` & `1.1.2` | [#2](https://github.com/MinhELY1402/GuGuGaGa-/issues/2), [#3](https://github.com/MinhELY1402/GuGuGaGa-/issues/3) | `chore/wbs-1.1.1-repo-infra` | 🟡 Ready to Branch | PR #... | ⏳ Pending | TV1 (Backend/PM) |
+| 2 | `1.2.1` | [#4](https://github.com/MinhELY1402/GuGuGaGa-/issues/4) | `feat/wbs-1.2.1-auth-jwt` | ⚪ Scheduled | PR #... | ⏳ Pending | TV1 (Backend/PM) |
+| 3 | `1.2.2` | [#5](https://github.com/MinhELY1402/GuGuGaGa-/issues/5) | `feat/wbs-1.2.2-menu-branches`| ⚪ Scheduled | PR #... | ⏳ Pending | TV1 (Backend/PM) |
+| 4 | `1.6.3` | [#25](https://github.com/MinhELY1402/GuGuGaGa-/issues/25) | `feat/wbs-1.6.3-ai-flask-api` | ⚪ Scheduled | PR #... | ⏳ Pending | TV3 (Frontend/AI) |
+| 5 | `1.2.4` | [#7](https://github.com/MinhELY1402/GuGuGaGa-/issues/7) | `feat/wbs-1.2.4-vietqr-casso` | ⚪ Scheduled | PR #... | ⏳ Pending | TV1 (Backend/PM) |
+| 6 | `1.3.2` | [#10](https://github.com/MinhELY1402/GuGuGaGa-/issues/10) | `feat/wbs-1.3.2-customer-home`| ⚪ Scheduled | PR #... | ⏳ Pending | TV2 (Mobile Lead) |
+| 7 | `1.3.6` | [#14](https://github.com/MinhELY1402/GuGuGaGa-/issues/14) | `feat/wbs-1.3.6-camera-ai-scan`| ⚪ Scheduled | PR #... | ⏳ Pending | TV2 (Mobile Lead) |
+| 8 | `1.5.2` | [#20](https://github.com/MinhELY1402/GuGuGaGa-/issues/20) | `feat/wbs-1.5.2-admin-products`| ⚪ Scheduled | PR #... | ⏳ Pending | TV3 (Frontend/AI) |
+| 9 | `1.4.2` | [#16](https://github.com/MinhELY1402/GuGuGaGa-/issues/16) | `feat/wbs-1.4.2-shipper-orders`| ⚪ Scheduled | PR #... | ⏳ Pending | TV2 (Mobile Lead) |
+| 10 | `1.5.1` | [#19](https://github.com/MinhELY1402/GuGuGaGa-/issues/19) | `feat/wbs-1.5.1-admin-dashboard`| ⚪ Scheduled | PR #... | ⏳ Pending | TV3 (Frontend/AI) |
+| 11 | `1.7.1` | [#27](https://github.com/MinhELY1402/GuGuGaGa-/issues/27) | `test/wbs-1.7.1-e2e-smoke-test`| ⚪ Scheduled | PR #... | ⏳ Pending | TV3 (QA Lead) |
+| 12 | `1.7.2` | [#28](https://github.com/MinhELY1402/GuGuGaGa-/issues/28) | `docs/wbs-1.7.2-release-v1` | ⚪ Scheduled | PR #... | ⏳ Pending | TV1 (PM Lead) |
+
