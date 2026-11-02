@@ -134,7 +134,7 @@
     2. Nâng cấp Customer App: hiển thị danh sách 30 món ăn từ Backend với hiệu ứng Shimmer Loading mượt mà.
     3. Hoàn thiện luồng thêm món, chọn số lượng, topping và cập nhật tổng tiền trong giỏ hàng.
   - **Tiêu chí nghiệm thu (Acceptance Criteria):**
-    - [ ] Thư mục `gugugaga shipper/chickengoo` được loại bỏ hoàn toàn.
+    - [x] Thư mục `gugugaga shipper/chickengoo` được loại bỏ hoàn toàn.
     - [ ] Hình ảnh món ăn hiển thị sắc nét trên Trang chủ Customer App.
     - [ ] Thêm món vào giỏ hàng hoạt động mượt mà, tính đúng tổng tiền.
   - **Cách kiểm tra thực tế (Verification):**
