@@ -416,12 +416,13 @@ GuGuGaGa/
 │   ├── SPEC.md                 # Đặc tả kỹ thuật & kiến trúc hệ thống
 │   ├── GIT_WORKFLOW.md         # Quy chuẩn Git flow, nhánh, PR & Merge
 │   ├── TEAM_COLLABORATION_GUIDE.md # 🤝 Cẩm nang phân chia 3 người & Merge cho Trưởng nhóm
+│   ├── GITHUB_PROJECTS_WBS_GUIDE.md # 📊 Hướng dẫn thiết lập bảng Projects WBS trên GitHub
 │   ├── chuc_nang_giao_dien.md  # Chi tiết luồng giao diện 3 tính năng chính
 │   └── vi_tri_thong_so_ai.md   # Bảng thông số và vị trí code AI
 │
 ├── scripts/                    # 🛠 Scripts bảo trì, di trú & tự động hóa
 ├── tasks/                      # 📋 Kế hoạch Sprint (plan.md) & Checklist (todo.md)
-├── .github/                    # CI/CD workflows & PR template
+├── .github/                    # CI/CD workflows, PR & Issue templates
 ├── .gitignore
 └── README.md                   # ← Bạn đang ở đây
 ```
@@ -433,6 +434,7 @@ GuGuGaGa/
 | Tài liệu | Mô tả | Liên kết |
 | :--- | :--- | :---: |
 | **Kế hoạch WBS & Quản trị Dự án** | Cây WBS 27 gói công việc, tỷ lệ MoSCoW (~60% MVP), sơ đồ PERT/CPM, đường găng và ma trận rủi ro. | [WBS_Project_Management.md](docs/WBS_Project_Management.md) |
+| **Bảng GitHub Projects WBS** | Hướng dẫn tạo Project Board, Custom Fields (WBS, MoSCoW, Module), Milestone và Automations. | [GITHUB_PROJECTS_WBS_GUIDE.md](docs/GITHUB_PROJECTS_WBS_GUIDE.md) |
 | **Cẩm Nang Phối Hợp 3 Người & Merge** | Hướng dẫn lệnh cụ thể cho từng thành viên, ranh giới thư mục độc lập và cách Trưởng nhóm review, merge PR. | [TEAM_COLLABORATION_GUIDE.md](docs/TEAM_COLLABORATION_GUIDE.md) |
 | **Đặc tả Kỹ thuật (SPEC)** | Mục tiêu, bản đồ năng lực (Capability Map), chuẩn code và tiêu chí nghiệm thu. | [SPEC.md](docs/SPEC.md) |
 | **Quy chuẩn Git & Pull Request** | Chiến lược đặt tên nhánh `feat/wbs-...`, quy tắc Conventional Commits, mẫu PR và chu trình merge. | [GIT_WORKFLOW.md](docs/GIT_WORKFLOW.md) |
