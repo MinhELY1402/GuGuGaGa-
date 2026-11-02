@@ -6,9 +6,9 @@ param (
 
 switch ($Role) {
     "1" {
-        git config user.name "Nguyen Van A (Backend Lead)"
-        git config user.email "nguyenvana.dev@gmail.com"
-        Write-Host "Da chuyen danh tinh sang: THÀNH VIÊN 1 - Nguyen Van A (Backend Lead)" -ForegroundColor Cyan
+        git config user.name "MinhELY1402"
+        git config user.email "minhely1402@gmail.com"
+        Write-Host "Da chuyen danh tinh sang: THÀNH VIÊN 1 - MinhELY1402 (Backend Lead)" -ForegroundColor Cyan
     }
     "2" {
         git config user.name "Tran Thi B (Mobile Lead)"
