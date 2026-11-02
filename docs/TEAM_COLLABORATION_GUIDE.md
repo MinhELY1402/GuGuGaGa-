@@ -16,11 +16,7 @@ git checkout main
 git status
 
 # 2. Đổi remote origin sang link repository mới của bạn
-# (Thay your-username và your-repo-name bằng thông tin thật của bạn trên GitHub)
-git remote set-url origin https://github.com/your-username/your-repo-name.git
-
-# Hoặc nếu chưa có remote:
-# git remote add origin https://github.com/your-username/your-repo-name.git
+git remote set-url origin https://github.com/MinhELY1402/GuGuGaGa-.git
 
 # 3. Đẩy toàn bộ nhánh main gốc lên GitHub mới
 git push -u origin main

@@ -495,8 +495,8 @@ GuGuGaGa/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/HuyVo117/GuGuGaGa.git
-cd GuGuGaGa
+git clone https://github.com/MinhELY1402/GuGuGaGa-.git
+cd GuGuGaGa-
 
 # 2. Backend
 cd Backend

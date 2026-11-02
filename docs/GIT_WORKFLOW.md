@@ -115,7 +115,7 @@ git push -u origin feat/wbs-1.2.1-auth-jwt
 
 ### Bước 5: Mở Pull Request (PR) & Đánh giá chéo (Code Review)
 1. Truy cập đường link GitHub hiển thị trên terminal hoặc vào repository:
-   `https://github.com/HuyVo117/GuGuGaGa/pull/new/feat/wbs-1.2.1-auth-jwt`
+   `https://github.com/MinhELY1402/GuGuGaGa-/pull/new/feat/wbs-1.2.1-auth-jwt`
 2. Điền đầy đủ thông tin theo mẫu **PR Template**:
    * Tiêu đề PR: `[WBS-1.2.1] feat: Hoàn thiện xác thực và phân quyền JWT`
    * Gắn nhãn (Labels): `feature`, `backend`, `wbs-1.2`.
